@@ -34,7 +34,7 @@ A aplicação busca acompanhar o estado emocional do usuário com base em seu co
 ## 🎬 Vídeo de Apresentação
 
 **Link do vídeo no YouTube:**  
-🎥 [https://youtu.be/SEU_LINK_AQUI](https://youtu.be/SEU_LINK_AQUI)
+🎥 [https://youtu.be/2t6rhKbzm9w](https://youtu.be/2t6rhKbzm9w)
 
 ---
 
